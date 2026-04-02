@@ -1,6 +1,11 @@
 # MNCH-Prototype: Pregnancy Risk Stratification
 
-A machine learning model that predicts whether a pregnant woman is High Risk or Low Risk using antenatal care (ANC) records
+Maternal health remains a critical challenge in many low-resource settings, where timely identification of high-risk pregnancies is often limited by gaps in clinical resources, inconsistent follow-up, and high patient volumes. Many complications—such as anemia, preeclampsia, or prior obstetric risks—can go unnoticed until they become severe, leading to preventable maternal and neonatal morbidity or mortality.
+
+Solution -
+
+This project develops a machine learning model that predicts whether a pregnant woman is "High Risk" or "Low Risk" using antenatal care (ANC) records. By leveraging historical clinical data across multiple visits, the model identifies patterns and risk factors that may not be immediately obvious during routine assessments.
+
 ---
 
 ## 📊 Dataset

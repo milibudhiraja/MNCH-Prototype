@@ -2,7 +2,7 @@
 
 The Challenge -
 
-Maternal health remains a critical challenge in many low-resource settings, where timely identification of high-risk pregnancies is often limited by gaps in clinical resources, inconsistent follow-up, and high patient volumes. Many complications—such as anemia, preeclampsia, or prior obstetric risks—can go unnoticed until they become severe, leading to preventable maternal and neonatal morbidity or mortality.
+Maternal health remains a critical challenge in many low-resource settings, where timely identification of high-risk pregnancies is often limited by gaps in clinical resources, inconsistent follow-up, and high patient volumes. Many complications, such as anemia, preeclampsia, or prior obstetric risks—can go unnoticed until they become severe, leading to preventable maternal and neonatal morbidity or mortality.
 
 Solution -
 

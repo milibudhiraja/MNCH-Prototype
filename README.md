@@ -10,7 +10,7 @@ This project develops a machine learning model that predicts whether a pregnant 
 
 ---
 
-## 📊 Dataset
+## Dataset
 - Source: Antenatal care records, Dodoma Regional Referral Hospital, Tanzania
 - Size: 8,817 patients, 683 variables
 - Target: Risk (High / Low)
@@ -18,7 +18,7 @@ This project develops a machine learning model that predicts whether a pregnant 
 
 ---
 
-## 🤖 Model Performance
+## Model Performance
 
 | Model | ROC-AUC | Accuracy |
 |---|---|---|
@@ -35,7 +35,7 @@ This project develops a machine learning model that predicts whether a pregnant 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 MNCH-Prototype/
 ├── src/
@@ -52,7 +52,7 @@ MNCH-Prototype/
 
 ---
 
-## 🚀 Run in Google Colab (no installation needed)
+## Run in Google Colab (no installation needed)
 
 1. Open [Google Colab](https://colab.research.google.com)
 2. Upload `Dodoma_Pregnancy_Risk.ipynb`
